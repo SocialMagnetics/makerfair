@@ -1,0 +1,16 @@
+{
+  "name": "sm-luxxus",
+  "version": "1.0.0",
+  "description": "Service to control Luxxus Lights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Social Magnetics",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mqtt": "^1.14.0",
+    "yargs": "^4.7.1"
+  }
+}
